@@ -1,1 +1,1 @@
-# COMP664_DeepLearning
+# COMP664-Deep-Learning
